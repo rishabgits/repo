@@ -1,3 +1,8 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
 .navigation{
     height: 500px;
     width: 100%;
